@@ -1,0 +1,10 @@
+Name: Tenant Info
+AntiForgery: enabled
+Author: Orchardizer
+Website: https://github.com/Hazzamanic/orchardizer
+Version: 1.0
+OrchardVersion: 1.10
+Description: Provides the name of the tenant and the datatable prefix
+Features:
+    Hazza.SiteInfo:
+        Description: Provides the name of the tenant and the datatable prefix
